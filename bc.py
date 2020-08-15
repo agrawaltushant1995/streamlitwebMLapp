@@ -16,7 +16,7 @@ Breast Cancer Detection
 using machine learning and python Detect if someone has Breast cancer
 """)
 #open and display an image
-image = Image.open('C:/Users/Yogesh/Desktop/ML Algorithm/Ai production/Breast cancer/streamlite app/Indian AI Hospital.png')
+image = Image.open('C:/Users/Yogesh/Desktop/ML Algorithm/Ai production/Breast cancer/streamlite app/breast cancer.png')
 st.image(image, caption='ML', use_column_width=True)
 
 #Get the data
