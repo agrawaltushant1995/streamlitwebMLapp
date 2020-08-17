@@ -1,3 +1,0 @@
-pandas>=1.0.5
-scikit_learn>=0.23.1
-streamlit==0.63.1
